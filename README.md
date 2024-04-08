@@ -92,6 +92,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+![WhatsApp Image 2024-04-08 at 8 26 45 AM](https://github.com/21002469/ImplicitIntent-MAD/assets/113591539/e8d40362-ed63-42b8-a572-2f299639ff65)
+![WhatsApp Image 2024-04-08 at 8 26 21 AM](https://github.com/21002469/ImplicitIntent-MAD/assets/113591539/c20d5aa8-2cd5-4f9e-baa6-d7b83d189ade)
+
 
 
 
